@@ -23,7 +23,8 @@ Fonctions :
 
 --- bash
 # 1. Cloner le projet
-git clone <>.git
+
+git clone https://github.com/Lorel12/todo_list.git
 cd todo
 
 # 2. Environnement virtuel
